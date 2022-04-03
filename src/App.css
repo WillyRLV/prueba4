@@ -1,1 +1,5 @@
-
+body {
+    background-image: url(../public/img/29366.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
